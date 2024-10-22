@@ -1,11 +1,11 @@
 {
-  "files.autoSave": "onFocusChange",
+  "files.autoSave": "off",
   "css.lint.unknownAtRules": "ignore",
   "editor.tabSize": 2,
-  "editor.formatOnSave": true,
+  "editor.formatOnSave": false,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "[javascript]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
-	"emmet.triggerExpansionOnTab": true
+  "emmet.triggerExpansionOnTab": true
 }
