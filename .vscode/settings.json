@@ -1,8 +1,8 @@
 {
-  "files.autoSave": "off",
+  "files.autoSave": "onFocusChange",
   "css.lint.unknownAtRules": "ignore",
   "editor.tabSize": 2,
-  "editor.formatOnSave": false,
+  "editor.formatOnSave": true,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "[javascript]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
